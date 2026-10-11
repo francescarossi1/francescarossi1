@@ -20,10 +20,9 @@
 
 ## 🎓 Chi Sono
 
-* 🔭 **Studio**: Computer Science presso **UniFe** (Università degli Studi di Ferrara)
+* 🔭 **Formazione**: Corso di Laurea in Informatica **UniFe** (Università degli Studi di Ferrara)
 * 📍 **Location**: Italia
 * 💻 **Progetti**: Linguaggi di Programmazione, Sistemi Operativi, Applicazioni Web PHP/Database
-* 📸 **Instagram**: [@francesca_rossiii_](https://instagram.com/francesca_rossiii_)
 
 <hr />
 
@@ -62,7 +61,7 @@
       <b>Francesca Rossi</b>
     </td>
     <td>
-      <p><b>Computer Science Student @ UniFe</b></p>
+      <p><b>Computer Science Student </b></p>
       <a href="https://github.com/francescarossi1">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
